@@ -1,0 +1,54 @@
+
+#presentacion {
+    min-height: 89vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-image: url("fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  
+
+}
+
+
+.titulo {
+    font-family: "Caveat",cursive;
+    font-optical-sizing: auto;
+    font-weight: 422;
+    font-style: italic;
+  }
+        
+
+
+
+.proyecto {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#proyecto-1 {
+    background-image: url("proyecto1.jpg")
+}
+
+#proyecto-2 {
+    background-image: url('proyecto2.jpg');
+}
+
+#proyecto-3 {
+    background-image: url('assets/');
+}
+
+
+/*el text shadow lo puedes modificar con las herramientas de google */
+.text-shadow-1 {
+    text-shadow: 1px -1px 8px rgba(0, 0, 0, 1);
+}
+
+
+
+
+
+    
